@@ -11,7 +11,7 @@ namespace Proyecto_1._1
     {
         private static string host = "localhost";
         private static string username = "postgres";
-        private static string password = "inubenja19113";
+        private static string password = "***************";
         private static string database = "metodosEstadisticos";
         private static NpgsqlConnection conn;
 
